@@ -1,4 +1,4 @@
-import { ArrowRight, LinkedinIcon, Mail } from "lucide-react";
+import { ArrowRight, Mail } from "lucide-react";
 const advisoryAreas = [
   {
     title: 'AI Governance & Board Readiness',
@@ -166,7 +166,7 @@ export default function App() {
 
         <div className="button-row center">
           <a className="button primary" href={linkedInUrl} target="_blank" rel="noreferrer">
-            <LinkedinIcon size={17} /> Connect on LinkedIn
+            Connect on LinkedIn
           </a>
 
           <a className="button secondary" href={`mailto:${contactEmail}`}>
