@@ -26,7 +26,7 @@ const insights = [
 
 export default function App() {
   const contactEmail = 'april.walker@hamptonida.com'
-  const linkedInUrl = 'https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE'
+  const linkedInUrl =  'https://www.linkedin.com/in/aprilwalkermbams'
   const executiveProfilePdf = '/assets/executive-profile.pdf'
 
   return (
