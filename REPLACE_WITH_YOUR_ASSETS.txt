@@ -1,0 +1,1 @@
+Add hamptonida-logo.png, april-headshot.jpg, and executive-profile.pdf in this folder.
