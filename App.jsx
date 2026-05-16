@@ -51,9 +51,8 @@ export default function App() {
           <p className="eyebrow">HamptonIda Advisory Group</p>
 
           <h1>
-            Transforming
-            <span>Intelligence Into Impact</span>
-          </h1>
+  <span>Transforming Intelligence Into Impact</span>
+</h1>
 
           <p className="hero-subhead">
             Board-level advisory across AI, infrastructure, governance, cybersecurity, and enterprise transformation.
