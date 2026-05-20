@@ -105,7 +105,25 @@ export default function App() {
           ))}
         </div>
       </section>
+<section className="problem-statement section">
+  <div className="problem-container">
+    <p className="eyebrow">Strategic Positioning</p>
 
+    <h2>The Enterprise Readiness Challenge</h2>
+
+    <p>
+      AI is reshaping enterprise operations, infrastructure, governance, cybersecurity, and competitive positioning faster than many organizations are prepared to operationalize responsibly and at scale.
+    </p>
+
+    <p>
+      Many boards and leadership teams face increasing pressure to understand not only how AI is being deployed, but whether their organizations possess the infrastructure readiness, data maturity, governance visibility, operational resilience, and technology fluency required to sustain transformation effectively.
+    </p>
+
+    <p>
+      HamptonIda Advisory Group helps organizations navigate this evolving landscape through strategic advisory grounded in the intersection of Infrastructure, Data, and AI.
+    </p>
+  </div>
+</section>
       <section id="about" className="about section">
         <div>
           <p className="eyebrow">About April</p>
