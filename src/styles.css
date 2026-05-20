@@ -408,3 +408,10 @@ a {
     font-size: 25px;
   }
 }
+.problem-statement {
+  padding-bottom: 48px;
+}
+
+.about {
+  padding-top: 48px;
+}
