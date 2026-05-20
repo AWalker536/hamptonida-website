@@ -171,7 +171,62 @@ export default function App() {
           ))}
         </div>
       </section>
+<section id="ai-governance" className="insight-detail section">
+  <p className="eyebrow">Executive Perspective</p>
+  <h2>AI Governance & Infrastructure Readiness for Boards</h2>
 
+  <p>
+    AI governance discussions often focus on policy, ethics, and regulatory oversight. While important, these conversations can overlook the operational foundations required to deploy AI responsibly and at enterprise scale. Infrastructure readiness, cybersecurity resilience, data architecture, and operational visibility are increasingly inseparable from effective AI governance.
+  </p>
+
+  <p>
+    Many organizations are approaching AI governance as a policy exercise rather than an operational readiness challenge. In practice, AI resilience depends as much on infrastructure maturity, data architecture, cybersecurity posture, and operational visibility as it does on governance frameworks themselves.
+  </p>
+
+  <h3>Industry Example: Financial Services</h3>
+
+  <p>
+    A global financial institution may successfully deploy AI-powered customer engagement tools, fraud detection models, or internal productivity copilots. However, without modernized infrastructure, integrated data governance, and resilient operational controls, these initiatives can create fragmentation, inconsistent outputs, and elevated operational risk.
+  </p>
+</section>
+
+<section id="inference-economics" className="insight-detail section">
+  <p className="eyebrow">Executive Perspective</p>
+  <h2>The Economics of AI Inference and Enterprise Scale</h2>
+
+  <p>
+    The next phase of enterprise AI competition will not be determined solely by model capability, but by the economics of inference at scale — including compute efficiency, infrastructure utilization, latency, operational cost structures, and business outcome alignment.
+  </p>
+
+  <p>
+    As enterprises move beyond experimentation into production environments, leaders must evaluate how inference costs influence infrastructure strategy, operational leverage, customer experience, and long-term capital allocation priorities.
+  </p>
+
+  <h3>Industry Example: Healthcare</h3>
+
+  <p>
+    A healthcare provider deploying AI-assisted diagnostics across hospital systems may achieve strong clinical outcomes in pilot environments. However, scaling those workloads across thousands of daily interactions introduces substantial inference demands, including compute costs, latency requirements, cybersecurity protections, and regulatory obligations.
+  </p>
+</section>
+
+<section id="technology-fluency" className="insight-detail section">
+  <p className="eyebrow">Executive Perspective</p>
+  <h2>Why Modern Boards Need Technology Fluency</h2>
+
+  <p>
+    Technology fluency is no longer optional for modern boards. AI, cybersecurity, infrastructure modernization, and digital operating models increasingly shape enterprise performance, operational resilience, customer engagement, and shareholder value.
+  </p>
+
+  <p>
+    Boards require directors capable of understanding not only technology risk, but the broader business implications of technological transformation and intelligent operating systems.
+  </p>
+
+  <h3>Industry Example: Energy & Utilities</h3>
+
+  <p>
+    An energy provider modernizing grid operations through digital infrastructure, predictive analytics, and AI-enabled monitoring may significantly improve operational efficiency and resilience. However, these same systems also expand cyber exposure, infrastructure dependencies, operational complexity, and regulatory risk.
+  </p>
+</section>
       <section id="contact" className="contact section">
         <p className="eyebrow">Contact</p>
 
