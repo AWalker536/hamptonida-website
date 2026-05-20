@@ -1,20 +1,24 @@
 import { ArrowRight, Mail } from "lucide-react";
 const advisoryAreas = [
   {
-    title: 'AI Governance & Board Readiness',
-    text: 'Helping boards and executive teams understand AI risk, oversight, adoption, infrastructure readiness, and long-term enterprise value creation.'
+    title: 'AI Governance & Infrastructure Readiness',
+    text: 'Board and executive advisory focused on AI oversight, infrastructure readiness, operational resilience, governance visibility, and enterprise-scale transformation preparedness.'
   },
   {
-    title: 'Enterprise Infrastructure & Transformation',
-    text: 'Advisory across cloud modernization, operational resilience, enterprise architecture, and AI-era technology strategy.'
+    title: 'Enterprise Transformation & Operating Strategy',
+    text: 'Strategic advisory supporting modernization across infrastructure, cloud, customer transformation, operating model evolution, and AI-enabled enterprise transformation.'
   },
   {
-    title: 'Cybersecurity & Risk Oversight',
-    text: 'Governance approaches for increasingly intelligent, data-driven, and interconnected enterprises.'
+    title: 'Cybersecurity, Operational Resilience & Risk',
+    text: 'Executive and board-level perspectives on cyber governance, operational resilience, infrastructure risk, intelligent systems oversight, and enterprise continuity in increasingly interconnected environments.'
   },
   {
-    title: 'Executive Strategy & Thought Leadership',
-    text: 'Executive engagement, strategic positioning, speaking, and board-level dialogue focused on AI and enterprise transformation.'
+    title: 'The IDA Framework™',
+    text: 'A strategic advisory framework centered on the intersection of Infrastructure, Data, and AI — designed to help organizations align technology readiness with governance, operational scalability, and long-term enterprise value creation.'
+  },
+  {
+    title: 'Executive Perspectives & Strategic Dialogue',
+    text: 'Executive engagement, keynote speaking, board briefings, leadership dialogue, and strategic perspectives focused on AI, governance, infrastructure, enterprise transformation, and technology fluency.'
   }
 ]
 
