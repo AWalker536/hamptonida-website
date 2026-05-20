@@ -19,9 +19,18 @@ const advisoryAreas = [
 ]
 
 const insights = [
-  'AI Governance & Infrastructure Readiness for Boards',
-  'The Economics of AI Inference and Enterprise Scale',
-  'Why Modern Boards Need Technology Fluency'
+  {
+    title: 'AI Governance & Infrastructure Readiness for Boards',
+    link: '#ai-governance'
+  },
+  {
+    title: 'The Economics of AI Inference and Enterprise Scale',
+    link: '#inference-economics'
+  },
+  {
+    title: 'Why Modern Boards Need Technology Fluency',
+    link: '#technology-fluency'
+  }
 ]
 
 export default function App() {
@@ -164,9 +173,9 @@ export default function App() {
 
         <div className="insight-grid">
           {insights.map((item) => (
-            <article className="insight-card" key={item}>
-              <p>{item}</p>
-              <a href="#contact">Read More</a>
+            <article className="insight-card" key={item.title}>
+           <p>{item.title}</p>
+              <a href={item.link}>Read More</a>
             </article>
           ))}
         </div>
