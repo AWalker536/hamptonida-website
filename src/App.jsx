@@ -236,6 +236,30 @@ export default function App() {
     An energy provider modernizing grid operations through digital infrastructure, predictive analytics, and AI-enabled monitoring may significantly improve operational efficiency and resilience. However, these same systems also expand cyber exposure, infrastructure dependencies, operational complexity, and regulatory risk.
   </p>
 </section>
+      <section id="speaking" className="speaking section">
+  <div className="speaking-container">
+    <p className="eyebrow">Speaking & Executive Engagements</p>
+
+    <h2>Board-level perspectives for leaders navigating AI, governance, and enterprise transformation.</h2>
+
+    <p>
+      April Walker speaks on topics at the intersection of AI, infrastructure, cybersecurity, governance, enterprise transformation, and board technology fluency.
+    </p>
+
+    <div className="speaking-list">
+      <span>Board & Executive Briefings</span>
+      <span>Industry Conferences & Keynotes</span>
+      <span>Leadership Forums</span>
+      <span>Strategic Roundtables</span>
+      <span>Executive Fireside Conversations</span>
+      <span>AI Governance & Enterprise Readiness Discussions</span>
+    </div>
+
+    <a className="button primary" href={`mailto:${contactEmail}`}>
+      Contact for Speaking Inquiries
+    </a>
+  </div>
+</section>
       <section id="contact" className="contact section">
         <p className="eyebrow">Contact</p>
 
