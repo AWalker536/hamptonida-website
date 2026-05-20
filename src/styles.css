@@ -432,3 +432,28 @@ a {
 .about {
   padding-top: 48px;
 }
+.insight-detail {
+  max-width: 980px;
+  margin: 0 auto;
+  border-top: 1px solid #e5e5e5;
+}
+
+.insight-detail h2 {
+  margin: 0 0 28px;
+  font-size: clamp(38px, 5vw, 58px);
+  line-height: 1.05;
+  letter-spacing: -0.045em;
+  font-weight: 600;
+}
+
+.insight-detail h3 {
+  margin: 42px 0 16px;
+  font-size: 24px;
+  letter-spacing: -0.02em;
+}
+
+.insight-detail p {
+  font-size: 20px;
+  line-height: 1.75;
+  color: #525252;
+}
