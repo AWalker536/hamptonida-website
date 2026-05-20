@@ -457,3 +457,37 @@ a {
   line-height: 1.75;
   color: #525252;
 }
+.speaking-container {
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+.speaking h2 {
+  font-size: clamp(38px, 5vw, 58px);
+  line-height: 1.05;
+  letter-spacing: -0.045em;
+  margin-bottom: 28px;
+  font-weight: 600;
+}
+
+.speaking p {
+  font-size: 20px;
+  line-height: 1.75;
+  color: #525252;
+}
+
+.speaking-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin: 42px 0;
+}
+
+.speaking-list span {
+  border: 1px solid #d9d9d9;
+  padding: 12px 18px;
+  border-radius: 999px;
+  font-size: 15px;
+  color: #404040;
+  background: #fafafa;
+}
